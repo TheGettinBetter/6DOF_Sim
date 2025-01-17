@@ -8,4 +8,4 @@ Discussion is here https://www.xsimulator.net/community/threads/6dof-stewart-ac-
 All the individual files are here, and are needed if you want to use the assembly file in any meaningful way.
 The assembly addon I used in FreeCAD is the 'A2Plus'.
 No constraints are used in the assembly file, so positions may break when loaded on another PC, (I don't know, but it may be fine).
-The part files are mostly dimensionally correct but not all detail is there, as the model is the prove concept and manufacturability
+The part files are mostly dimensionally correct but not all the detail is there, as the model is primarily to prove concept and manufacturability.
