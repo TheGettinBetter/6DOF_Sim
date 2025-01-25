@@ -1,3 +1,8 @@
+UPDATE:
+Latest version 25-01-25, with both cyclic and collective force feedback (FFB).
+All files in one zip this time.
+
+
 Date: 17-01-25.
 
 FreeCAD files of a twin seater helicopter cockpit (Bell206).
