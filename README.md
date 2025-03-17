@@ -1,9 +1,11 @@
 UPDATE:
-Latest version 25-01-25, with both cyclic and collective force feedback (FFB).
-All files in one zip this time.
+Latest version 17-03-25, with both cyclic and collective force feedback (FFB).
+All files in one zip.
+Modifications for actual pulley sizes & additional machining to reduce weight.
 
+Assembly file is Bell206_Cockpit_Assembly-4.FCStd
 
-Date: 17-01-25.
+Date: 17-03-25.
 
 FreeCAD files of a twin seater helicopter cockpit (Bell206).
 
